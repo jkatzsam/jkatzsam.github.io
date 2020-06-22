@@ -4,7 +4,6 @@ I am currently a Postdoc at the Paul G. Allen School of Computer Science & Engin
 
 # Publications
 
-</ul>
 			<ul style="list-style-type:disc">
 				 <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v89/katz-samuels19a.html">Top Feasible Arm Identification</a>. AISTATS 2019.
  				 </li>
@@ -22,12 +21,10 @@ I am currently a Postdoc at the Paul G. Allen School of Computer Science & Engin
 				 <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v84/katz-samuels18a.html">Nonparametric Preference Completion</a>. AISTATS 2018.
  				 </li>
 			</ul>
-
 			<ul style="list-style-type:disc">
 				 <li>Dejiao Zhang, Julian Katz-Samuels, Mario A.T. Figueiredo, and Laura Balzano, "Simultaneous Sparsity and Parameter Tying for Deep Learning using Ordered Weighted L1 Regularization", accepted to SSP 2018
  				 </li>
 			</ul>
-			
 			<ul style="list-style-type:disc">
 				<li>Burgess, Matthew, Eugenia Giraudy, Julian Katz-Samuels, Joe Walsh, Derek Willis, Lauren Haynes, and Rayid Ghani. <a href="http://www.kdd.org/kdd2016/papers/files/adf0831-burgessA.pdf">"The Legislative Influence Detector: Finding Text Reuse in State Legislation."</a>  In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 57-66. ACM, 2016.
 			</ul>
