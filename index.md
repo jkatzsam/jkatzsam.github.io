@@ -1,10 +1,11 @@
-# Julian Katz-Samuels
+# Biography
 
-You can use the [editor on GitHub](https://github.com/jkatzsam/juliankatzsamuels.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a Postdoc at the Paul G. Allen School of Computer Science & Engineering at the University of Washington working with Kevin Jamieson. I completed my PhD in the Electrical Engineering and Computer Science Department at the University of Michigan where I worked with Prof. Clayton Scott. Prior to that, I double-majored in mathematics and philosophy at the University of Chicago. My research focuses on pure exploration multi-armed bandits, recommender systems, and nonparametric estimation. I am also interested in applications of machine learning that promote the social good. As a Data Science for Social Good fellow at the University of Chicago in 2015, I helped develop the <a href="https://dssg.uchicago.edu/lid/">Legislative Influence Detector</a>. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Publications
 
-### Markdown
+
+*Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v89/katz-samuels19a.html">Top Feasible Arm Identification</a>. AISTATS 2019.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
