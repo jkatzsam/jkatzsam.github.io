@@ -5,7 +5,7 @@ I am currently a Postdoc at the Paul G. Allen School of Computer Science & Engin
 # Publications
 
 <ul>
-  <li>Coffee</li>
+  <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v89/katz-samuels19a.html">Top Feasible Arm Identification</a>. AISTATS 2019.</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
