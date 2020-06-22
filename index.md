@@ -4,6 +4,7 @@ I am currently a Postdoc at the Paul G. Allen School of Computer Science & Engin
 
 # Publications
 
+	    	<p>
 			</ul>
 			<ul style="list-style-type:disc">
 				 <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v89/katz-samuels19a.html">Top Feasible Arm Identification</a>. AISTATS 2019.
