@@ -5,6 +5,7 @@ I am currently a Postdoc at the Paul G. Allen School of Computer Science & Engin
 # Publications
 
 <ul>
+  <li>J. Katz-Samuels, and K. Jamieson. <a href="http://proceedings.mlr.press/v108/katz-samuels20a.html">The True Sample Complexity of Identifying Good Arm</a>. AISTATS 2020.</li>
   <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v89/katz-samuels19a.html">Top Feasible Arm Identification</a>. AISTATS 2019.</li>
   <li>J. Katz-Samuels, G. Blanchard, and C. Scott. <a href="http://jmlr.org/papers/volume20/17-576/17-576.pdf">Decontamination of Mutual Contamination Models</a>. Journal of Machine Learning Research.</li>
   <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v80/katz-samuels18a.html">Feasible Arm Identification</a>. ICML 2018 (Long Oral Talk).</li>
