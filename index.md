@@ -1,9 +1,7 @@
 
 <div id="container">
 	<div class="prof-box">
-  <body>
 <img src="IMG_0889.JPG", style="float:left; margin-top: 15; width="1200" height="240";"/>
-  </body>
 
 <p style="text-align:left; margin-left:260px">
 
