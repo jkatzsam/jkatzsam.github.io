@@ -1,6 +1,6 @@
 <html>
   <body>
-<img src="IMG_0889.jpeg", style="float:left; margin-top: 15; width="600" height="120";"/>
+<img src="IMG_0889.jpeg", style="float:left; margin-top: 15; width="1200" height="240";"/>
   </body>
 </html>
 
