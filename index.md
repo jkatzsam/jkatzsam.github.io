@@ -1,8 +1,10 @@
 
+   <body>
 
 <img src="IMG_0889.JPG", style="float:left; margin-top: 15; width="1200" height="240";"/>
 
 <img align="left" src="IMG_0889.JPG""width="1200" height="240";>
+   <body/>
 
 # Biography
 
