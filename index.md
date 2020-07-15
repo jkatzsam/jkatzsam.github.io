@@ -1,5 +1,8 @@
-
+<html>
+  <body>
 <img src="IMG_0889.jpeg", style="float:left; margin-top: 15; pxwidth:5em; height:10em;"/>
+  </body>
+</html>
 
 # Biography
 
