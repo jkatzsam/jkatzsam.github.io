@@ -1,12 +1,18 @@
 
+<div id="container">
+	<div class="prof-box">
   <body>
 <img src="IMG_0889.JPG", style="float:left; margin-top: 15; width="1200" height="240";"/>
   </body>
 
+<p style="text-align:left; margin-left:260px">
 
 # Biography
 
 I am currently a Postdoc at the Paul G. Allen School of Computer Science & Engineering at the University of Washington working with Kevin Jamieson. I completed my PhD in the Electrical Engineering and Computer Science Department at the University of Michigan where I worked with Prof. Clayton Scott. Prior to that, I double-majored in mathematics and philosophy at the University of Chicago. My research focuses on pure exploration multi-armed bandits, recommender systems, and nonparametric estimation. I am also interested in applications of machine learning that promote the social good. As a Data Science for Social Good fellow at the University of Chicago in 2015, I helped develop the <a href="https://dssg.uchicago.edu/lid/">Legislative Influence Detector</a>. 
+</p>
+	</div>
+</div>
 
 # Preprints
 
