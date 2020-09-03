@@ -1,7 +1,7 @@
 <html>
 
 <body>
-<img src="img_0889.jpg", style="align:left; margin-top: 15; width="1200" height="240"; />
+<img src="IMG_0889.JPG", style="align:left; margin-top: 15; width="1200" height="240"; />
   </body>
                                                                                                        
 </html>
