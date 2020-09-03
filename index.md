@@ -1,7 +1,7 @@
 <html>
 
 <body>
-<img src="https://github.com/jkatzsam/jkatzsam.github.io/blob/master/IMG_0889.JPG?raw=true", style="align:left; margin-top: 15; width="1200" height="240"; />
+<img src="https://raw.githubusercontent.com/jkatzsam/jkatzsam.github.io/blob/master/IMG_0889.JPG?raw=true", style="align:left; margin-top: 15; width="1200" height="240"; />
   </body>
                                                                                                        
 </html>
