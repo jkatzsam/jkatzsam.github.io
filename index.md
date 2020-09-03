@@ -6,7 +6,7 @@
                                                                                                        
 </html>
 
-#![alt text]https://github.com/jkatzsam/jkatzsam.github.io/blob/master/IMG_0889.JPG?raw=true
+![image]https://github.com/jkatzsam/jkatzsam.github.io/blob/master/IMG_0889.JPG?raw=true
 
 
 # Biography
