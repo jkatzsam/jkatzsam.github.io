@@ -14,7 +14,7 @@
 # Preprints
 
 <ul>
-  <li>Julian Katz-Samuels, Lalit Jain, Zohar Karnin, Kevin Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>.</li>
+  <li>Julian Katz-Samuels, Lalit Jain, Zohar Karnin, Kevin Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, accepted to Neurips 2020.</li>
 </ul>
 
 # Publications
