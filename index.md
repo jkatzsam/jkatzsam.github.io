@@ -14,6 +14,9 @@
 # Preprints
 
 <ul>
+  <li>Andrew Wagenmaker, Julian Katz-Samuels, Kevin Jamieson. <a href="https://arxiv.org/pdf/2011.00576.pdf">Experimental Design for Regret Minimization in Linear Bandits</a>.</li>
+</ul>
+<ul>
   <li>Julian Katz-Samuels, Lalit Jain, Zohar Karnin, Kevin Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, accepted to NeurIPS 2020.</li>
 </ul>
 
