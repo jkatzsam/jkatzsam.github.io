@@ -14,14 +14,15 @@ I am currently a Postdoc working with Robert Nowak at the University of Wisconsi
 # Preprints
 
 <ul>
-  <li>Andrew Wagenmaker, Julian Katz-Samuels, Kevin Jamieson. <a href="https://arxiv.org/pdf/2011.00576.pdf">Experimental Design for Regret Minimization in Linear Bandits</a>.</li>
+  <li>Andrew Wagenmaker, Julian Katz-Samuels, Kevin Jamieson. <a href="https://arxiv.org/pdf/2011.00576.pdf">Experimental Design for Regret Minimization in Linear Bandits</a>, accepted to AISTATS 2021.</li>
 </ul>
-<ul>
-  <li>Julian Katz-Samuels, Lalit Jain, Zohar Karnin, Kevin Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, accepted to NeurIPS 2020.</li>
-</ul>
+
 
 # Publications
 
+<ul>
+  <li>Julian Katz-Samuels, Lalit Jain, Zohar Karnin, Kevin Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, NeurIPS 2020.</li>
+</ul>
 <ul>
   <li>J. Katz-Samuels, and K. Jamieson. <a href="http://proceedings.mlr.press/v108/katz-samuels20a.html">The True Sample Complexity of Identifying Good Arm</a>. AISTATS 2020.</li>
   <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v89/katz-samuels19a.html">Top Feasible Arm Identification</a>. AISTATS 2019.</li>
