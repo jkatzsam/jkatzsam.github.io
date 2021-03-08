@@ -33,4 +33,4 @@ I am currently a Postdoc working with Robert Nowak at the University of Wisconsi
 </ul>
 
 # Contact
-jkatzsam "at" cs.washington.edu
+katzsamuels "at" wisc.edu
