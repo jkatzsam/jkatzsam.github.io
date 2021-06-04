@@ -17,7 +17,6 @@ I am currently a Postdoc working with Robert Nowak at the University of Wisconsi
   <li>Julian Katz-Samuels, Jifan Zhang, Lalit Jain, Kevin Jamieson. <a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification
 </a>, Accepted to ICML 2021.</li>
 </ul>
-
 <ul>
   <li>Romain Camilleri, Julian Katz-Samuels, Kevin Jamieson. <a href="https://arxiv.org/abs/2105.05806">High-Dimensional Experimental Design and Kernel Bandits
 </a>, Accepted to ICML 2021 (Long Talk).</li>
@@ -29,7 +28,6 @@ I am currently a Postdoc working with Robert Nowak at the University of Wisconsi
 <ul>
   <li>Andrew Wagenmaker, Julian Katz-Samuels, Kevin Jamieson. <a href="https://arxiv.org/pdf/2011.00576.pdf">Experimental Design for Regret Minimization in Linear Bandits</a>, AISTATS 2021.</li>
 </ul>
-
 <ul>
   <li>Julian Katz-Samuels, Lalit Jain, Zohar Karnin, Kevin Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, NeurIPS 2020.</li>
 </ul>
