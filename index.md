@@ -14,16 +14,18 @@ I am a Postdoc working with Robert Nowak at the University of Wisconsin. Previou
 # Preprints
 
 <ul>
-  <li>J. Katz-Samuels, J. Zhang, L. Jain, K. Jamieson. <a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification
-</a>, Accepted to ICML 2021.</li>
-  <li>R. Camilleri, J. Katz-Samuels, K. Jamieson. <a href="https://arxiv.org/abs/2105.05806">High-Dimensional Experimental Design and Kernel Bandits
-</a>, Accepted to ICML 2021 (Long Talk).</li>
+C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz. <a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts
+</a>
 </ul>
 
 
 # Publications
 
 <ul>
+ <li>J. Katz-Samuels, J. Zhang, L. Jain, K. Jamieson. <a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification
+</a>, ICML 2021.</li>
+  <li>R. Camilleri, J. Katz-Samuels, K. Jamieson. <a href="https://arxiv.org/abs/2105.05806">High-Dimensional Experimental Design and Kernel Bandits
+</a>, ICML 2021 (Long Talk).</li>
   <li>A. Wagenmaker, J. Katz-Samuels, K. Jamieson. <a href="https://arxiv.org/pdf/2011.00576.pdf">Experimental Design for Regret Minimization in Linear Bandits</a>, AISTATS 2021.</li>
   <li>J. Katz-Samuels, L. Jain, Z. Karnin, K. Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, NeurIPS 2020.</li>
   <li>J. Katz-Samuels, and K. Jamieson. <a href="http://proceedings.mlr.press/v108/katz-samuels20a.html">The True Sample Complexity of Identifying Good Arm</a>. AISTATS 2020.</li>
