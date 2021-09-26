@@ -19,7 +19,6 @@ I am a Postdoc working with Robert Nowak at the University of Wisconsin. Previou
 
 <li>C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz. <a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts </a>
   </li>
-</a>
 </ul>
 
 
