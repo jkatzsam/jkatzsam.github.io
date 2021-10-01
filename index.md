@@ -30,7 +30,7 @@ I am a Postdoc working with Robert Nowak at the University of Wisconsin. Previou
   <li>J. Katz-Samuels, J. Zhang, L. Jain, K. Jamieson. <a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification</a>, ICML 2021.</li>
   <li>R. Camilleri, J. Katz-Samuels, K. Jamieson. <a href="https://arxiv.org/abs/2105.05806">High-Dimensional Experimental Design and Kernel Bandits</a>, ICML 2021 (Long Talk).</li>
   <li>A. Wagenmaker, J. Katz-Samuels, K. Jamieson. <a href="https://arxiv.org/pdf/2011.00576.pdf">Experimental Design for Regret Minimization in Linear Bandits</a>, AISTATS 2021.</li>
-  <li>J. Katz-Samuels, L. Jain, Z. Karnin, K. Jamieson. <a href="https://arxiv.org/abs/2006.11685">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, NeurIPS 2020.</li>
+  <li>J. Katz-Samuels, L. Jain, Z. Karnin, K. Jamieson. <a href="https://proceedings.neurips.cc/paper/2020/hash/75800f73fa80f935216b8cfbedf77bfa-Abstract.html">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>, NeurIPS 2020.</li>
   <li>J. Katz-Samuels, and K. Jamieson. <a href="http://proceedings.mlr.press/v108/katz-samuels20a.html">The True Sample Complexity of Identifying Good Arm</a>. AISTATS 2020.</li>
   <li>J. Katz-Samuels, and C. Scott. <a href="http://proceedings.mlr.press/v89/katz-samuels19a.html">Top Feasible Arm Identification</a>. AISTATS 2019.</li>
   <li>J. Katz-Samuels, G. Blanchard, and C. Scott. <a href="http://jmlr.org/papers/volume20/17-576/17-576.pdf">Decontamination of Mutual Contamination Models</a>. Journal of Machine Learning Research 2019.</li>
