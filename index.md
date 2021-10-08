@@ -8,7 +8,7 @@ I am a Postdoc working with Robert Nowak at the University of Wisconsin. Previou
 
                                                                                        
 <p style="color:#FF0000";>Red paragraph text</p>
-<p style="color:blue;">I'm on the job market this year! Feel free to reach out if you think I'd be a good fit for a position!</p>                                                                                   
+<p style="color:blue;">I'm on the job market this year! Feel free to reach out if you think I'd be a good fit for a position!</p>                                 ##I'm on the job market this year! Feel free to reach out if you think I'd be a good fit for a position!                                                
 
 
 # Preprints
