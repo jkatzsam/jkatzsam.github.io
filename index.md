@@ -7,7 +7,7 @@
 I am a Postdoc working with Robert Nowak at the University of Wisconsin. Previously,  I was a Postdoc at the Paul G. Allen School of Computer Science & Engineering at the University of Washington under Kevin Jamieson. I completed my PhD in the Electrical Engineering and Computer Science Department at the University of Michigan where my advisor was Clayton Scott. Prior to that, I double-majored in mathematics and philosophy at the University of Chicago. My research focuses on pure exploration multi-armed bandits, recommender systems, and nonparametric estimation. I am also interested in applications of machine learning that promote the social good. As a Data Science for Social Good fellow at the University of Chicago in 2015, I helped develop the <a href="https://dssg.uchicago.edu/lid/">Legislative Influence Detector</a>. 
 
                                                                                        
-
+<p style="color:#FF0000";>Red paragraph text</p>
 <p style="color:blue;">I'm on the job market this year! Feel free to reach out if you think I'd be a good fit for a position!</p>                                                                                   
 
 
