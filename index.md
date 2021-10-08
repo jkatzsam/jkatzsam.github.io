@@ -11,7 +11,9 @@ I am a Postdoc working with Robert Nowak at the University of Wisconsin. Previou
 <p style="color:blue;">I'm on the job market this year! Feel free to reach out if you think I'd be a good fit for a position!</p>  
 
 ## I'm on the job market this year! Feel free to reach out if you think I'd be a good fit for a position!                                                
-
+<body>
+  <p style="color:red;">Red paragraph text</p>
+</body>
 
 # Preprints
 
