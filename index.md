@@ -24,7 +24,7 @@ My research focuses on developing practical machine learning algorithms that ada
 # Publications
 
 <ul>
-   <li>J. Katz-Samuels, B. Mason, K. Jamieson, R. Nowak. <a href="https://arxiv.org/pdf/2111.04915.pdf"> Practical, Provably-Correct Interactive Learning in the Realizable Setting: The Power of True Believers</a>. <p style="font-style: italic;">NeurIPS 2021.</p>
+   <li>J. Katz-Samuels, B. Mason, K. Jamieson, R. Nowak. <a href="https://arxiv.org/pdf/2111.04915.pdf"> Practical, Provably-Correct Interactive Learning in the Realizable Setting: The Power of True Believers</a>. <i>NeurIPS 2021</i>.
 </li>
   <li>J. Katz-Samuels, J. Zhang, L. Jain, K. Jamieson. <a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification</a>. ICML 2021.</li>
   <li>R. Camilleri, J. Katz-Samuels, K. Jamieson. <a href="https://arxiv.org/abs/2105.05806">High-Dimensional Experimental Design and Kernel Bandits</a>. ICML 2021 (Long Talk).</li>
