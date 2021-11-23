@@ -16,7 +16,7 @@ My research focuses on designing practical machine learning algorithms that adap
 <ul>
    <li><a href="https://arxiv.org/abs/2109.05131">Near Instance Optimal Model Selection for Pure Exploration Linear Bandits</a>. Y. Zhu, J. Katz-Samuels, R. Nowak. </li>
 
-<li><a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts </a>. C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz.
+<li><a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts</a>. C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz.
   </li>
 </ul>
 
@@ -35,7 +35,7 @@ My research focuses on designing practical machine learning algorithms that adap
   <li><a href="http://jmlr.org/papers/volume20/17-576/17-576.pdf">Decontamination of Mutual Contamination Models</a>. J. Katz-Samuels, G. Blanchard, C. Scott. <em>Journal of Machine Learning Research 2019</em>.</li>
   <li><a href="http://proceedings.mlr.press/v80/katz-samuels18a.html">Feasible Arm Identification</a>. J. Katz-Samuels, C. Scott. <em>ICML 2018</em> (Long Talk).</li>
   <li><a href="http://proceedings.mlr.press/v84/katz-samuels18a.html">Nonparametric Preference Completion</a>. J. Katz-Samuels, C. Scott. <em>AISTATS 2018</em>.</li>
-    <li><a href="http://www.kdd.org/kdd2016/papers/files/adf0831-burgessA.pdf">"The Legislative Influence Detector: Finding Text Reuse in State Legislation"</a>. M. Burgess, E. Giraudy, J. Katz-Samuels, J. Walsh, D. Willis, L. Haynes, R. Ghani. <em>KDD 2016</em>.</li>   
+    <li><a href="http://www.kdd.org/kdd2016/papers/files/adf0831-burgessA.pdf">The Legislative Influence Detector: Finding Text Reuse in State Legislation</a>. M. Burgess, E. Giraudy, J. Katz-Samuels, J. Walsh, D. Willis, L. Haynes, R. Ghani. <em>KDD 2016</em>.</li>   
 </ul>
 
 # Contact
