@@ -14,7 +14,7 @@ I am a postdoc working with Robert Nowak at the University of Wisconsin. Previou
 <ul>
    <li>Y. Zhu, J. Katz-Samuels, R. Nowak. <a href="https://arxiv.org/abs/2109.05131">Near Instance Optimal Model Selection for Pure Exploration Linear Bandits. </a></li>
 
-<li>C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz. <a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts </a>
+<li>C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz. <a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts </a>.
   </li>
 </ul>
 
