@@ -26,7 +26,7 @@ My research focuses on developing practical machine learning algorithms that ada
 <ul>
    <li><a href="https://arxiv.org/pdf/2111.04915.pdf"> Practical, Provably-Correct Interactive Learning in the Realizable Setting: The Power of True Believers</a>. J. Katz-Samuels, B. Mason, K. Jamieson, R. Nowak. <em>NeurIPS 2021</em>.
 </li>
-  <li><a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification</a>. J. Katz-Samuels, J. Zhang, L. Jain, K. Jamieson. <em>ICML 2021</i>.</em>
+  <li><a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification</a>. J. Katz-Samuels, J. Zhang, L. Jain, K. Jamieson. <em>ICML 2021</em>.</li>
   <li><a href="https://arxiv.org/abs/2105.05806">High-Dimensional Experimental Design and Kernel Bandits</a>. R. Camilleri, J. Katz-Samuels, K. Jamieson. <em>ICML 2021</em> (Long Talk).</li>
   <li><a href="https://arxiv.org/pdf/2011.00576.pdf">Experimental Design for Regret Minimization in Linear Bandits</a>. A. Wagenmaker, J. Katz-Samuels, K. Jamieson. <em>AISTATS 2021</em>.</li>
   <li><a href="https://proceedings.neurips.cc/paper/2020/hash/75800f73fa80f935216b8cfbedf77bfa-Abstract.html">An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits</a>. J. Katz-Samuels, L. Jain, Z. Karnin, K. Jamieson. <em>NeurIPS 2020</em>.</li>
@@ -36,6 +36,7 @@ My research focuses on developing practical machine learning algorithms that ada
   <li><a href="http://proceedings.mlr.press/v80/katz-samuels18a.html">Feasible Arm Identification</a>. J. Katz-Samuels, and C. Scott. <em>ICML 2018</em> (Long Talk).</li>
   <li><a href="http://proceedings.mlr.press/v84/katz-samuels18a.html">Nonparametric Preference Completion</a>. J. Katz-Samuels, and C. Scott. <em>AISTATS 2018</em>.</li>
     <li><a href="http://www.kdd.org/kdd2016/papers/files/adf0831-burgessA.pdf">"The Legislative Influence Detector: Finding Text Reuse in State Legislation"</a>. M. Burgess, E. Giraudy, J. Katz-Samuels, J. Walsh, D. Willis, L. Haynes, and R. Ghani. <em>KDD 2016</em>.</li>
+    
 </ul>
 
 # Contact
