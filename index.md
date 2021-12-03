@@ -16,14 +16,15 @@ My research focuses on designing practical machine learning algorithms that adap
 <ul>
    <li><a href="https://arxiv.org/abs/2109.05131">Near Instance Optimal Model Selection for Pure Exploration Linear Bandits</a>. Y. Zhu, J. Katz-Samuels, R. Nowak. </li>
 
-<li><a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts</a>. C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz.
-  </li>
+
 </ul>
 
 
 # Publications
 
 <ul>
+  <li><a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts</a>. C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz. <em>AAAI 2022</em>.
+  </li>
    <li><a href="https://arxiv.org/pdf/2111.04915.pdf"> Practical, Provably-Correct Interactive Learning in the Realizable Setting: The Power of True Believers</a>. J. Katz-Samuels, B. Mason, K. Jamieson, R. Nowak. <em>NeurIPS 2021</em>.
 </li>
   <li><a href="https://arxiv.org/abs/2105.06499">Improved Algorithms for Agnostic Pool-based Active Classification</a>. J. Katz-Samuels, J. Zhang, L. Jain, K. Jamieson. <em>ICML 2021</em>.</li>
