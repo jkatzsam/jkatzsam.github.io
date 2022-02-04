@@ -14,8 +14,7 @@ My research focuses on designing practical machine learning algorithms that adap
 
 
 <ul>
-
-
+     <li><a href="https://arxiv.org/abs/2202.01402">GALAXY: Graph-based Active Learning at the Extreme</a>. J. Zhang, J. Katz-Samuels, R. Nowak.  </li>
 </ul>
 
 
