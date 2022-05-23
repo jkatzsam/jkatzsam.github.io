@@ -13,15 +13,13 @@ My research focuses on designing practical machine learning algorithms that adap
 # Preprints
 
 
-<ul>
-       <li><a href="https://arxiv.org/abs/2202.03299">Training OOD Detectors in their Natural Habitats</a>. J. Katz-Samuels, J. Nakhleh, R. Nowak, Y. Li.  </li>
-     <li><a href="https://arxiv.org/abs/2202.01402">GALAXY: Graph-based Active Learning at the Extreme</a>. J. Zhang, J. Katz-Samuels, R. Nowak.  </li>
-</ul>
 
 
 # Publications
 
 <ul>
+         <li><a href="https://arxiv.org/abs/2202.03299">Training OOD Detectors in their Natural Habitats</a>. J. Katz-Samuels, J. Nakhleh, R. Nowak, Y. Li. <em>ICML 2022</em>.  </li>
+     <li><a href="https://arxiv.org/abs/2202.01402">GALAXY: Graph-based Active Learning at the Extreme</a>. J. Zhang, J. Katz-Samuels, R. Nowak. <em>ICML 2022</em>. </li>
      <li><a href="https://arxiv.org/abs/2109.05131">Near Instance Optimal Model Selection for Pure Exploration Linear Bandits</a>. Y. Zhu, J. Katz-Samuels, R. Nowak. <em>AISTATS 2022</em>. </li>
   <li><a href="https://arxiv.org/abs/2007.00077">Similarity Search for Efficient Active Learning and Search of Rare Concepts</a>. C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A. C. Berg, R. Nowak, R. Sumbaly, M. Zaharia, I. Zeki Yalniz. <em>AAAI 2022</em>.
   </li>
