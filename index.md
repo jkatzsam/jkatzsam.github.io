@@ -8,7 +8,7 @@ I am a postdoc working with <a href="https://nowak.ece.wisc.edu/">Robert Nowak</
 
 My research focuses on designing practical machine learning algorithms that adaptively collect data to accelerate learning. My recent research interests include active learning, multi-armed bandits, black-box optimization, and out-of-distribution detection using deep neural networks. I am also very interested in machine learning applications that promote the social good. As a fellow at Data Science for Social Good (University of Chicago), I helped develop the <a href="https://dssg.uchicago.edu/lid/">Legislative Influence Detector</a>. 
                                                                                       
-<strong>I'm on the job market this year! Feel free to reach out if you think I'd be a good fit for a position! </strong>
+
 
 # Preprints
 
