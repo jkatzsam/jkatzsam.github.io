@@ -4,9 +4,9 @@
 
 # Biography
 
-I am a postdoc working with <a href="https://nowak.ece.wisc.edu/">Robert Nowak</a> at the University of Wisconsin, and was previously a postdoc at the Paul G. Allen School of Computer Science & Engineering at the University of Washington under <a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin Jamieson</a>. I completed my Ph.D. in the electrical and computer engineering at the University of Michigan under <a href="https://web.eecs.umich.edu/~cscott/">Clayton Scott</a>  and received my B.A. in mathematics and philosophy at the University of Chicago. 
+I received my Ph.D. in the electrical and computer engineering at the University of Michigan and my B.A. in mathematics and philosophy at the University of Chicago. 
 
-My research focuses on designing practical machine learning algorithms that adaptively collect data to accelerate learning. My recent research interests include active learning, multi-armed bandits, black-box optimization, and out-of-distribution detection using deep neural networks. I am also very interested in machine learning applications that promote the social good. As a fellow at Data Science for Social Good (University of Chicago), I helped develop the <a href="https://dssg.uchicago.edu/lid/">Legislative Influence Detector</a>. 
+I focus on designing practical machine learning algorithms that adaptively collect data to accelerate learning. My recent research interests include active learning, multi-armed bandits, black-box optimization, and out-of-distribution detection using deep neural networks. I am also very interested in machine learning applications that promote the social good. As a fellow at Data Science for Social Good (University of Chicago), I helped develop the <a href="https://dssg.uchicago.edu/lid/">Legislative Influence Detector</a>. 
                                                                                       
 
 
