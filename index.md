@@ -36,4 +36,4 @@ I received my Ph.D. in the electrical and computer engineering at the University
 </ul>
 
 # Contact
-katzsamuels "at" wisc.edu
+jkatzsamuels "at" gmail.com
